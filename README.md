@@ -6,7 +6,7 @@
 
 🎓 Studying engineering at RNSIT, currently in my 2nd year. Passionate about building innovative solutions and exploring the world of technology.
 
-💡 Skilled in C, C++, Java, and Python, having a strong foundation in these programming languages. Recently embarked on a journey to master Flutter for cross-platform app development.
+💡 Skilled in C, C++ and Java having a strong foundation in these programming languages. I have basic knowledge in Python too.Recently embarked on a journey to master Flutter for cross-platform app development. 
 
 🤖 Fascinated by the field of Artificial Intelligence and its potential to transform industries. Keen on leveraging AI technologies to develop intelligent systems that make a positive impact.
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/amith-sagar-l-248487227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amith-sagar-l-248487227" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amith-sagar-l-248487227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amith-sagar-l-248487227" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
