@@ -2,7 +2,7 @@
 
 
 
-👨‍💻 Software Engineering Student | AI Enthusiast | App Developer 
+👨‍💻 Software Engineering Student | AI Enthusiast 
 
 🎓 Studying engineering at RNSIT, currently in my 2nd year. Passionate about building innovative solutions and exploring the world of technology.
 
